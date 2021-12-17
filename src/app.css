@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('/background-blur.jpg') no-repeat center center #000d2f;
+  background-size: cover;
+}
+
+.bg {
+  background-color: #042533;
+}
+
+strong,
+b {
+  @apply font-bold;
+}
