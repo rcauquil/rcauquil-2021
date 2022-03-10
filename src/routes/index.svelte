@@ -4,7 +4,7 @@
 
   let user = {
     name: 'Romain Cauquil',
-    role: 'Senior FullStack Developer',
+    role: 'FullStack JS Developer',
     location: 'world'
   }
 </script>

@@ -22,7 +22,7 @@
     <!-- Linkedin -->
     <a
       class="hover:text-blue-400"
-      href="https://www.linkedin.com/in/romain-cauquil-b642aa40/"
+      href="https://www.linkedin.com/in/fullstack-js-developer/"
       title="Linkedin account - Romain Cauquil"
       target="_blank"
     >
